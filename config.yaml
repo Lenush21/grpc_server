@@ -1,0 +1,5 @@
+app:
+  http_port: 8000
+  host: 127.0.0.1
+  folder: /Users/lena/Documents/Projects/test_grpc/tmp_files
+  log_level: debug
